@@ -5,7 +5,7 @@ In this project, I built an interactive dashboard using **Power BI** to explore 
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To analyze and visualize transportation data to answer the following business questions:
 - What are the most common shipment routes and their average distances?
@@ -17,7 +17,7 @@ To analyze and visualize transportation data to answer the following business qu
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI** – Dashboard creation and data visualization  
 - **Microsoft Excel** – Data cleaning and preparation  
@@ -38,7 +38,7 @@ To analyze and visualize transportation data to answer the following business qu
 
 ---
 
-## 💡 Insights & Outcomes
+##  Insights & Outcomes
 
 - Found that certain suppliers consistently had late deliveries.
 - Identified peak shipping times, which helped suggest staffing changes.
@@ -46,7 +46,7 @@ To analyze and visualize transportation data to answer the following business qu
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you'd like to connect or discuss this project:
 - 📧 ujunwarose1995@email.com
